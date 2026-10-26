@@ -14,11 +14,11 @@ export const Footer: React.FC = () => {
                 <GraduationCap className="w-5 h-5" />
               </div>
               <span className="text-xl font-bold text-white tracking-tight">
-                Campus<span className="text-indigo-400">Flow</span>
+                Fest<span className="text-indigo-400">Flow</span>
               </span>
             </Link>
             <p className="text-xs text-slate-400 leading-relaxed max-w-sm">
-              The unified intelligent university event management ecosystem connecting administrative leaders, enthusiastic student organizers, and engaged parents in real-time.
+              The unified intelligent university festival and event management ecosystem connecting administrative leaders, student participants, and engaged parents in real-time.
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a href="#" className="w-8 h-8 rounded-lg bg-slate-800 hover:bg-indigo-600 flex items-center justify-center text-slate-300 hover:text-white transition-colors">
@@ -98,7 +98,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="mt-12 pt-6 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
-          <p>© 2026 CampusFlow Technologies Inc. All rights reserved.</p>
+          <p>© 2026 FestFlow Technologies Inc. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <a href="#" className="hover:text-slate-300">Privacy Policy</a>
             <a href="#" className="hover:text-slate-300">Terms of Service</a>

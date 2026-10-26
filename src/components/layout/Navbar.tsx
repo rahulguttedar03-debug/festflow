@@ -51,7 +51,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 dark:from-white dark:via-indigo-200 dark:to-white tracking-tight">
-                Campus<span className="text-indigo-600 dark:text-indigo-400">Flow</span>
+                Fest<span className="text-indigo-600 dark:text-indigo-400">Flow</span>
               </span>
               <span className="hidden sm:inline-block ml-2 text-[10px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded bg-indigo-50 text-indigo-700 dark:bg-indigo-950/60 dark:text-indigo-300 border border-indigo-200/50 dark:border-indigo-800/50">
                 SaaS

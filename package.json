@@ -1,8 +1,28 @@
 {
-  "name": "campusflow",
+  "name": "festflow",
   "private": true,
   "version": "1.0.0",
+  "description": "FestFlow — Intelligent College Festival & Campus Event Management Platform with Student, Parent, and Admin Portals",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulguttedar03-debug/festflow.git"
+  },
+  "keywords": [
+    "festflow",
+    "college-festival",
+    "event-management",
+    "campus-management",
+    "saas",
+    "react",
+    "typescript",
+    "tailwind",
+    "supabase",
+    "recharts",
+    "parent-portal"
+  ],
+  "author": "FestFlow Core Team",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
